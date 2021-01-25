@@ -1,0 +1,14 @@
+{
+    "name": "geojson-china",
+    "version": "0.0.1",
+    "engines": {
+        "node": ">= 14",
+        "npm": ">= 7"
+    },
+    "scripts": {
+        "crawl": "node scripts/crawler.js"
+    },
+    "dependencies": {
+        "progress": "^2.0.3"
+    }
+}
